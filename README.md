@@ -1,7 +1,7 @@
-<!-- <p align="center">
+<p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p> -->
+ <img width=300px src="https://raw.githubusercontent.com/taylow/awaik-backend/main/docs/img/awaikcat.png" alt="Awaik logo - fat cat sleeping"></a>
+</p>
 
 <h3 align="center">Awaik - Don't hesitate; await the awake state!</h3>
 
@@ -43,7 +43,7 @@ Awaik is a service uptime monitoring tool that periodically sends requests to se
 - [awaik](https://github.com/taylow/awaik) - Landing page
 - [awaik-frontend](https://github.com/taylow/awaik-frontend) - Frontend repository for connecting to Awaik services
 - [awaik-backend](https://github.com/taylow/awaik-backend) - Backend repository responsible for Awaik's functionality
-- [awaik-infrastructure](https://github.com/taylow/awaik-infrastructure) - Scripts and configs for Awaiks infrastructure
+- [awaik-infrastructure](https://github.com/taylow/awaik-infrastructure) - Scripts and configs for Awaik's infrastructure
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -122,7 +122,7 @@ See also the list of [contributors](https://github.com/taylow/awaik-backend/cont
 - Stack inspiration came from [Monzo](https://monzo.com/), as this is what they listed in a job opening, and I wanted to build something that used the same stack
 - Hat tip to [Christian Selig](https://github.com/christianselig) for their [apollo-backend](https://github.com/christianselig/apollo-backend) repository; a fantastic example of a production-ready server written in Go
 - Thanks to my friend [Connor O'Brien](https://connorobrienbusibddf.myportfolio.com/) for helping me come up with a silly name for it, after all, you can't truly start a project until you know the domain exists and the SEO isn't already saturated, right? right??
-
+- Another thanks to my talented friend [Dylan Thomas](#) for the adorable cat logo!
 
 <!-- From Vite setup
 # React + TypeScript + Vite
